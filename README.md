@@ -1,6 +1,6 @@
 - 👋 Hi, I’m nego.
 - 📫 How to reach me: vanduyen.mai@gmail.com
-- 💻​ Portfolio: [negordyh](https://negordyh.netlify.app/)
+- 💻​ Blog: [negordyh](https://negordyh.netlify.app/)
 - 🌻 Linkedin: [negordyh](https://www.linkedin.com/in/negordyh/)
 
 <img src="https://github-readme-stats-dusky-six-60.vercel.app/api/top-langs/?username=negordyh&hide=jupyter%20notebook,tex,vim%20script&layout=compact&langs_count=10&exclude_repo=github-readme-stats&v=2" /><br/>
