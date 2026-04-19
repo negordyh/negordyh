@@ -8,4 +8,4 @@
 
 <br/>
 
-![Views](https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2Fnegordyh%2Fnegordyh.json&color=brightgreen)
+![Lượt xem](https://komarev.com/ghpvc/?username=negordyh&color=blue&style=flat-square&label=TRAFFIC_METRIC)
