@@ -8,4 +8,4 @@
 
 <br/>
 
-<img src="https://count.getloli.com/get/@negordyh?theme=moebooru" alt="negordyh" />
+![Views](https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2Fnegordyh%2Fnegordyh.json&color=brightgreen)
